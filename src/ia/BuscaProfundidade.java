@@ -18,7 +18,7 @@ public class BuscaProfundidade
     //LISTA DE NÓS RETIRADO DA PILHA PARA PODER REMONTAR O CAMINHO PERCORRIDO
     private ArrayList<No> lista = new ArrayList();
     
-    private int profundidade_maxima = 5;//USA BUSCA DE PROFUNDIDADE LIMITADA PARA EVITAR LOOP
+    private int profundidade_maxima = 7;//USA BUSCA DE PROFUNDIDADE LIMITADA PARA EVITAR LOOP
     
     
     //CONSTRUTOR PADRÃO
